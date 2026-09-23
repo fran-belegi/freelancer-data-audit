@@ -1,6 +1,6 @@
 # 🔍 Freelancer Activity & Invoice Audit Framework
 
-End-to-end data pipeline (Spark SQL, Azure Synapse, Power Query) to audit and reconcile freelancer activity data against ERP invoices, feeding a Power BI reporting layer. Includes a reproducible synthetic dataset so the pipeline logic can be explored without any real data.
+End-to-end data pipeline ( SQL, Azure Synapse, Power Query) to audit and reconcile freelancer activity data against ERP invoices, feeding a Power BI reporting layer. Includes a reproducible synthetic dataset so the pipeline logic can be explored without any real data.
 
 ## 🔒 Confidentiality & Data Privacy Notice
 All code in this repository has been heavily anonymized to comply with Non-Disclosure Agreements (NDA) and corporate security policies.
